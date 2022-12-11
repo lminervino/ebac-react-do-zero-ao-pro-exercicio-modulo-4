@@ -1,6 +1,6 @@
 # EXERCÍCIO
 
-Criar um formulário e ao lado uma tabela de respostas do formulário.
+Criar um App React que exiba a frase "Hello World!" em 10 formas diferentes exibindo a data e hora que foi exibida a frase.
 
 # DEMO
 
